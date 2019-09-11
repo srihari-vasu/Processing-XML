@@ -1,0 +1,2 @@
+# Processing-XML
+Given huge XML files (Big Data files), create Elasticsearch index and upload the files by processing them using the NLP core server. The NLP core server is used to classify words and return a JSON object for every sentence. We then Process the JSON object to extract the required words based on their types to send to the Elasticsearch index. This Big Data concept helps is processing large number of files with lots of data taht can be stored in XML formats.
